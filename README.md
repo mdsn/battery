@@ -11,3 +11,9 @@ I recommend using stack. Clone the repository, `cd` into its directory, and
 run `stack install`. If the installation directory is in your PATH, the
 `battery` command should be available after stack is done building it.
 
+## example
+
+```
+λ battery
+67
+```
